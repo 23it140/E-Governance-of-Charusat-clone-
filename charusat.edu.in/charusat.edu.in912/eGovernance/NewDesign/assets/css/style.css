@@ -1,0 +1,93 @@
+.loginBody {
+    background-image: url('../../images/DJI_0012.jpg');
+    /*background-image: url('../../images/WMHDay-Fri.jpg');*/
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.loginBodyKsv {
+    background-image: url('../../images/KSV_Banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.loginBody5 {
+    background: #1e5799;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8', GradientType=0);
+    /* IE6-9 */
+}
+
+.loginBody1 {
+    background: rgba(72, 156, 234, 1);
+    background: -moz-linear-gradient(top, rgba(72, 156, 234, 1) 0%, rgba(72, 156, 234, 0.94) 30%, rgba(63, 145, 243, 0.9) 52%, rgba(51, 129, 255, 0.9) 82%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(72, 156, 234, 1)), color-stop(30%, rgba(72, 156, 234, 0.94)), color-stop(52%, rgba(63, 145, 243, 0.9)), color-stop(82%, rgba(51, 129, 255, 0.9)));
+    background: -webkit-linear-gradient(top, rgba(72, 156, 234, 1) 0%, rgba(72, 156, 234, 0.94) 30%, rgba(63, 145, 243, 0.9) 52%, rgba(51, 129, 255, 0.9) 82%);
+    background: -o-linear-gradient(top, rgba(72, 156, 234, 1) 0%, rgba(72, 156, 234, 0.94) 30%, rgba(63, 145, 243, 0.9) 52%, rgba(51, 129, 255, 0.9) 82%);
+    background: -ms-linear-gradient(top, rgba(72, 156, 234, 1) 0%, rgba(72, 156, 234, 0.94) 30%, rgba(63, 145, 243, 0.9) 52%, rgba(51, 129, 255, 0.9) 82%);
+    background: linear-gradient(to bottom, rgba(72, 156, 234, 1) 0%, rgba(72, 156, 234, 0.94) 30%, rgba(63, 145, 243, 0.9) 52%, rgba(51, 129, 255, 0.9) 82%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#489cea', endColorstr='#3381ff', GradientType=0);
+}
+
+.loginBody2 {
+    background-image: url('../../images/2017-06-06.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.CardBox {
+    -webkit-box-shadow: 0px 9px 16px -2px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 9px 16px -2px rgba(0, 0, 0, 1);
+    box-shadow: 0px 9px 16px -2px rgba(0, 0, 0, 1);
+}
+
+/*--copyrights start here--*/
+
+.copyrights {
+    padding: 1.5em 0em;
+    text-align: center;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    -o-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    background: #000;
+}
+
+.copyrights p {
+    font-size: 1em;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.copyrights p a {
+    color: #1b93e1;
+}
+
+.copyrights p a:hover {
+    color: #696969;
+}
+
+.danger .text-glow {
+    text-shadow: 0px 0px 10px #DA4453;
+}
+
+.warning .text-glow {
+    text-shadow: 0px 0px 10px #F6BB42;
+}
+
+.info .text-glow {
+    text-shadow: 0px 0px 10px #3BAFDA;
+}
+
+.success .text-glow {
+    text-shadow: 0px 0px 10px #2b957a;
+}
